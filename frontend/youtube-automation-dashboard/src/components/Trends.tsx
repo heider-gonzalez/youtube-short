@@ -18,7 +18,7 @@ import {
 } from '@mui/material';
 import {
   TrendingUp as TrendingUpIcon,
-  Fire as FireIcon,
+  LocalFireDepartment as FireIcon,
   Money as MoneyIcon,
   Analytics as AnalyticsIcon,
   Lightbulb as LightbulbIcon,

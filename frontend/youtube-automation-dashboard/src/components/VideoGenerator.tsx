@@ -20,7 +20,7 @@ import {
 } from '@mui/material';
 import {
   MovieCreation as MovieCreationIcon,
-  AutoAwesome as AutoAwesomeIcon,
+  Stars as AutoAwesomeIcon,
   CheckCircle as CheckCircleIcon,
 } from '@mui/icons-material';
 
