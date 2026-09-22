@@ -12,12 +12,12 @@ import {
 import {
   YouTube as YouTubeIcon,
   TrendingUp as TrendingUpIcon,
-  Money as MoneyIcon,
+  AttachMoney as MoneyIcon,
   VideoLibrary as VideoLibraryIcon,
   People as PeopleIcon,
   Schedule as ScheduleIcon,
-  MovieCreation as MovieCreationIcon,
-  Campaign as CampaignIcon,
+  Movie as MovieCreationIcon,
+  Flag as CampaignIcon,
 } from '@mui/icons-material';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import VideoGenerator from './VideoGenerator';

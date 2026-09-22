@@ -30,9 +30,9 @@ import {
   PlayArrow as PlayArrowIcon,
   Pause as PauseIcon,
   TrendingUp as TrendingUpIcon,
-  Money as MoneyIcon,
+  AttachMoney as MoneyIcon,
   VideoLibrary as VideoLibraryIcon,
-  Campaign as CampaignIcon,
+  Flag as CampaignIcon,
 } from '@mui/icons-material';
 import { Campaign } from '../types';
 import { automationApi } from '../services/api';

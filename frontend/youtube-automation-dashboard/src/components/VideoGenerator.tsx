@@ -19,8 +19,8 @@ import {
   Chip,
 } from '@mui/material';
 import {
-  MovieCreation as MovieCreationIcon,
-  Stars as AutoAwesomeIcon,
+  Movie as MovieCreationIcon,
+  Star as AutoAwesomeIcon,
   CheckCircle as CheckCircleIcon,
 } from '@mui/icons-material';
 

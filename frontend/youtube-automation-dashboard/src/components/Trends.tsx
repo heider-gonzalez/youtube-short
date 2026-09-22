@@ -18,8 +18,8 @@ import {
 } from '@mui/material';
 import {
   TrendingUp as TrendingUpIcon,
-  LocalFireDepartment as FireIcon,
-  Money as MoneyIcon,
+  Whatshot as FireIcon,
+  AttachMoney as MoneyIcon,
   Analytics as AnalyticsIcon,
   Lightbulb as LightbulbIcon,
 } from '@mui/icons-material';

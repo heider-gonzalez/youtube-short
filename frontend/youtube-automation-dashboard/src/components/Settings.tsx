@@ -21,11 +21,10 @@ import {
 } from '@mui/material';
 import {
   Save as SaveIcon,
-  API as APIIcon,
   Schedule as ScheduleIcon,
-  Security as SecurityIcon,
+  Lock as SecurityIcon,
   Notifications as NotificationsIcon,
-  Storage as StorageIcon,
+  Folder as StorageIcon,
 } from '@mui/icons-material';
 
 interface TabPanelProps {

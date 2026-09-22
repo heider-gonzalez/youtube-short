@@ -18,7 +18,7 @@ import {
   Menu as MenuIcon,
   Dashboard as DashboardIcon,
   YouTube as YouTubeIcon,
-  Campaign as CampaignIcon,
+  Flag as CampaignIcon,
   Analytics as AnalyticsIcon,
   TrendingUp as TrendingIcon,
   Settings as SettingsIcon,
@@ -30,7 +30,7 @@ const drawerWidth = 240;
 const menuItems = [
   { text: 'Dashboard', icon: <DashboardIcon />, path: '/' },
   { text: 'Canales', icon: <YouTubeIcon />, path: '/channels' },
-  { text: 'Campañas', icon: <CampaignIcon />, path: '/campaigns' },
+  { text: 'Campañas', icon: <Flag />, path: '/campaigns' },
   { text: 'Analytics', icon: <AnalyticsIcon />, path: '/analytics' },
   { text: 'Tendencias', icon: <TrendingIcon />, path: '/trends' },
   { text: 'Configuración', icon: <SettingsIcon />, path: '/settings' },
